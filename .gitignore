@@ -1,2 +1,5 @@
 .DS_Store
 *.pyc
+/build
+/dist
+/geonames_rdf.egg-info
