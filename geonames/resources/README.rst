@@ -35,16 +35,16 @@ As a library::
     _USERNAME = 'your_username'
     sa = geonames.adapters.search.Search(_USERNAME)
 
-    results = sa.query('detroit').country('us').max_rows(5).get_flat_results()
-    for id_, name in results:
+    result = sa.query('detroit').country('us').max_rows(5).execute()
+    for id_, name in result.get_flat_results():
         # make_unicode() is only used here for Python version-compatibility.
         print(geonames.compat.make_unicode("[{0}]: [{1}]").format(id_, name))
 
-When used as a library, you can use the following through execution functions to render a result (`get_flat_results` is used above):
+When used as a library, a result object will be returned from the `execute()` method. The following are the ways to read the results (`get_flat_results` is used above):
 
-- **get_xml**: This returns a raw *lxml.etree* object that you can work against.
-- **get_xml_nodes**: This returns a list of `Feature` `lxml.etree` objects from the resulting document, representing each of the results.
-- **get_flat_results**: This simply yields a list of (id, name) 2-tuples if you're not interested in anything else. This is also what's returned using the command-line utility.
+- The raw *lxml* object is exposed through the `xml` property.
+- The *get_xml_nodes* method will return a list of `Feature` `lxml.etree` objects from the resulting document, representing each of the results.
+- The *get_flat_results* method will simply yields a list of (id, name) 2-tuples if you're not interested in anything else. This is also what's returned, by default, from the command-line utility.
 
 As a command-line utility::
 
@@ -57,7 +57,9 @@ As a command-line utility::
 
 You may only provide string (non-boolean) parameters to the command-line utility.
 
-No matter what method you're using, the parameters that are available to be used are the following:
+**NOTE:** You can also get the complete RDF response by passing the "-x" parameter.
+
+Whether you're using the library or the tool, the parameters that are available are:
 
 =========================  =====================
 Library Parameter Name     API Parameter Name
@@ -95,6 +97,6 @@ Some of the parameters can be specified more than once. See the API documentatio
 Design Notes
 ------------
 
-- Note that most of the parameters in the library are named differently from the API. Normally this goes against my policy, but I found so many of the parameters to be ambiguous or cryptic that I renamed those parameters, and converted the rest to underscore-separated naming while I was at it.
+- Note that most of the parameters in the library are named differently from the API. Normally this goes against my policy, but I found so many of the parameters to be ambiguous or cryptic that I renamed those parameters to be clearer and just renamed the rest to underscore-separated naming while I was at it.
 
 - We mostly rely on the API to correctly validate against bad parameters. We don't like arbitrarily validating parameters in the client since the rules may change in the server and it's one more thing that might interfere with your implementation. However, if there is a type of validation that, for one reason or another, makes sense and/or would make things easier to develop against, let me know.

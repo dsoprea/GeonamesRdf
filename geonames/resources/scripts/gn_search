@@ -60,16 +60,18 @@ def _main():
 
         method(v)
 
+    result = sa.execute()
+
     if do_show_xml is True:
-        root = sa.get_xml()
-        print(lxml.etree.tostring(root, pretty_print=True))
+        print(lxml.etree.tostring(result.xml, pretty_print=True))
     else:
-        results = sa.get_flat_results()
+        results = result.get_flat_results()
         results = list(results)
 
         if results:
             for (id_, name) in results:
-                print(geonames.compat.make_unicode("[{0}]: [{1}]").format(id_, name))
+                print(geonames.compat.make_unicode("[{0}]: [{1}]").\
+                      format(id_, name))
         else:
             print("No results found.")
 

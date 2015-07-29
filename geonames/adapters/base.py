@@ -11,6 +11,42 @@ import lxml.etree
 _LOGGER = logging.getLogger(__name__)
 
 
+class Result(object):
+    def __init__(self, xml_object):
+        self.__xml = xml_object
+
+    def get_xml_nodes(self):
+        """Return a list of raw XML nodes."""
+
+        return self.xml.xpath(
+                ".//gn:Feature", 
+                namespaces=geonames.config.api.XML_NAMESPACES)
+
+    def get_flat_results(self):
+        """Just yield a list of 2-tuples of ID and name."""
+
+        for node in self.get_xml_nodes():
+            feature_node = \
+                node.xpath(
+                    './/@rdf:about', 
+                    namespaces=geonames.config.api.XML_NAMESPACES)
+
+            feature_id = str(feature_node[0])
+
+            name_node = \
+                node.xpath(
+                    './/gn:name', 
+                    namespaces=geonames.config.api.XML_NAMESPACES)
+
+            name = geonames.compat.make_unicode(name_node[0].text)
+
+            yield (feature_id, name)
+
+    @property
+    def xml(self):
+        return self.__xml
+
+
 class AdapterBase(object):
     # This needs to be populated by child.
     service_name = None
@@ -51,7 +87,7 @@ class AdapterBase(object):
     def __flatten_parameters(self):
         return geonames.compat.urlencode(self.__parameters_list)
 
-    def get_xml(self):
+    def execute(self):
         """Return an lxml object."""
 
         _LOGGER.debug("Submitting parameters:\n%s", self.__parameters_list)
@@ -81,33 +117,4 @@ class AdapterBase(object):
 
         r.raise_for_status()
 
-        return lxml.etree.fromstring(r.raw.read())
-
-    def get_xml_nodes(self):
-        """Return a list of raw XML nodes."""
-
-        root = self.get_xml()
-
-        return root.xpath(
-                ".//gn:Feature", 
-                namespaces=geonames.config.api.XML_NAMESPACES)
-
-    def get_flat_results(self):
-        """Just yield a list of 2-tuples of ID and name."""
-
-        for node in self.get_xml_nodes():
-            feature_node = \
-                node.xpath(
-                    './/@rdf:about', 
-                    namespaces=geonames.config.api.XML_NAMESPACES)
-
-            feature_id = str(feature_node[0])
-
-            name_node = \
-                node.xpath(
-                    './/gn:name', 
-                    namespaces=geonames.config.api.XML_NAMESPACES)
-
-            name = geonames.compat.make_unicode(name_node[0].text)
-
-            yield (feature_id, name)
+        return Result(lxml.etree.fromstring(r.raw.read()))

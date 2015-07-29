@@ -15,9 +15,10 @@ import geonames.adapters.search
 
 def _main():
     sa = geonames.adapters.search.Search('dsoprea')
-    results = sa.query('detroit').country('us').max_rows(5).get_flat_results()
+    result = sa.query('detroit').country('us').max_rows(5).execute()
+    flat_results = result.get_flat_results()
  
-    for (id_, name) in results:
+    for (id_, name) in flat_results:
         print(geonames.compat.make_unicode("[{0}]: [{1}]").format(id_, name))
 
 if __name__ == '__main__':
