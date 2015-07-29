@@ -33,6 +33,11 @@ def _parse_args():
         dest='parameters',
         help='Parameter')
 
+    parser.add_argument(
+        '-x', '--xml',
+        action='store_true',
+        help='Print raw XML response')
+
     args = parser.parse_args()
 
     return args
@@ -42,6 +47,7 @@ def _main():
 
     username = args.username
     parameters = args.parameters
+    do_show_xml = args.xml
 
     sa = geonames.adapters.search.Search(username)
     
@@ -54,14 +60,18 @@ def _main():
 
         method(v)
 
-    results = sa.get_flat_results()
-    results = list(results)
-     
-    if results:
-        for (id_, name) in results:
-            print(geonames.compat.make_unicode("[{0}]: [{1}]").format(id_, name))
+    if do_show_xml is True:
+        root = sa.get_xml()
+        print(lxml.etree.tostring(root, pretty_print=True))
     else:
-        print("No results found.")
+        results = sa.get_flat_results()
+        results = list(results)
+
+        if results:
+            for (id_, name) in results:
+                print(geonames.compat.make_unicode("[{0}]: [{1}]").format(id_, name))
+        else:
+            print("No results found.")
 
     print('')
 
