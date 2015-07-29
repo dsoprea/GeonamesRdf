@@ -40,11 +40,11 @@ As a library::
         # make_unicode() is only used here for Python version-compatibility.
         print(geonames.compat.make_unicode("[{0}]: [{1}]").format(id_, name))
 
-When used as a library, a result object will be returned from the `execute()` method. The following are the ways to read the results (`get_flat_results` is used above):
+A result object will be returned from the `execute()` method. The following are the ways to read the results (`get_flat_results` is used above):
 
 - The raw *lxml* object is exposed through the `xml` property.
-- The *get_xml_nodes* method will return a list of `Feature` `lxml.etree` objects from the resulting document, representing each of the results.
-- The *get_flat_results* method will simply yields a list of (id, name) 2-tuples if you're not interested in anything else. This is also what's returned, by default, from the command-line utility.
+- The `get_xml_nodes` method will return a list of `Feature` `lxml.etree` objects from the resulting document, representing each of the results.
+- The `get_flat_results` method will simply yields a list of (id, name) 2-tuples if you're not interested in anything else. This is also what's returned, by default, from the command-line utility.
 
 As a command-line utility::
 
