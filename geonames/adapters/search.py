@@ -11,22 +11,6 @@ class Search(geonames.adapters.base.AdapterBase):
     def get_required_parameters(self):
         return []
 
-    def validate_parameters(self, parameters_list):
-        # Make sure one of the mutually-exclusive, required parameters was 
-        # given.
-
-        found = False
-        want = set(['q', 'name', 'name_like'])
-        for k, v in parameters_list:
-            f = k in want
-            if f is True:
-                found = True
-                break
-
-        if found is False:
-            raise ValueError("Either 'query', 'place_name', or "
-                             "'place_name_like' must be used.")
-
     def query(self, value):
         return self.set_string_parameter('q', value)
 
