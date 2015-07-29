@@ -2,7 +2,7 @@
 Introduction
 ------------
 
-This is a client library for the `Geonames <http://www.geonames.org>`_ RDF-compatible `web-services <http://www.geonames.org/export/ws-overview.html>`_. At this time, only the `Search API <http://www.geonames.org/export/geonames-search.html>`_ provides RDF responses.
+This is a client library for the `Geonames <http://www.geonames.org>`_ RDF-compatible `web-services <http://www.geonames.org/export/ws-overview.html>`_. At this time, only the `Search API <http://www.geonames.org/export/geonames-search.html>`_ provides RDF responses and is, therefore, the only adapter available.
 
 RDF is often used in association with the `Semantic Web <http://www.w3.org/standards/semanticweb>`_ and/or the `IoT <https://en.wikipedia.org/wiki/Internet_of_Things>`_.
 
