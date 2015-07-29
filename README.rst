@@ -1,0 +1,1 @@
+geonames/resources/README.rst

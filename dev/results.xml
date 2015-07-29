@@ -1,0 +1,1822 @@
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<gn:Feature rdf:about="http://sws.geonames.org/4990729/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990729/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:alternateName xml:lang="af">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ar">&#1583;&#1610;&#1578;&#1585;&#1608;&#1610;&#1578;</gn:alternateName>
+<gn:alternateName xml:lang="az">Detroyt</gn:alternateName>
+<gn:alternateName xml:lang="be">&#1043;&#1086;&#1088;&#1072;&#1076; &#1044;&#1101;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="bg">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="bn">&#2465;&#2503;&#2463;&#2509;&#2480;&#2479;&#2492;&#2503;&#2463;</gn:alternateName>
+<gn:alternateName xml:lang="bs">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ca">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ce">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="cs">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="da">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="de">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="el">&#925;&#964;&#953;&#964;&#961;&#972;&#953;&#964;</gn:alternateName>
+<gn:alternateName xml:lang="en">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="eo">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="es">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="et">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="fa">&#1583;&#1740;&#1578;&#1585;&#1608;&#1740;&#1578;</gn:alternateName>
+<gn:alternateName xml:lang="fi">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit</gn:alternateName>
+<gn:alternateName xml:lang="gl">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="he">&#1491;&#1496;&#1512;&#1493;&#1497;&#1496;</gn:alternateName>
+<gn:alternateName xml:lang="hi">&#2337;&#2375;&#2335;&#2381;&#2352;&#2366;&#2311;&#2335;</gn:alternateName>
+<gn:alternateName xml:lang="hu">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="hy">&#1332;&#1381;&#1407;&#1408;&#1400;&#1397;&#1385;</gn:alternateName>
+<gn:alternateName xml:lang="id">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="io">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="is">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="it">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#12487;&#12488;&#12525;&#12452;&#12488;</gn:alternateName>
+<gn:alternateName xml:lang="ka">&#4307;&#4308;&#4322;&#4320;&#4317;&#4312;&#4322;&#4312;</gn:alternateName>
+<gn:alternateName xml:lang="kk">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#46356;&#53944;&#47196;&#51060;&#53944;</gn:alternateName>
+<gn:alternateName xml:lang="la">Detroitum</gn:alternateName>
+<gn:alternateName xml:lang="lt">Detroitas</gn:alternateName>
+<gn:alternateName xml:lang="lv">Detroita</gn:alternateName>
+<gn:alternateName xml:lang="mk">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="mr">&#2337;&#2375;&#2335;&#2381;&#2352;&#2377;&#2312;&#2335;</gn:alternateName>
+<gn:alternateName xml:lang="mrj">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="mzn">&#1583;&#1740;&#1578;&#1585;&#1608;&#1740;&#1578;</gn:alternateName>
+<gn:alternateName xml:lang="nl">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="nn">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="no">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="oc">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="pl">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="pt">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ro">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="sah">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="sk">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="sr">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="sv">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ta">&#2975;&#3007;&#2975;&#3021;&#2992;&#3006;&#2991;&#3007;&#2975;&#3021;</gn:alternateName>
+<gn:alternateName xml:lang="te">&#3105;&#3142;&#3103;&#3149;&#3120;&#3134;&#3119;&#3135;&#3103;&#3149;</gn:alternateName>
+<gn:alternateName xml:lang="tg">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="th">&#3604;&#3637;&#3607;&#3619;&#3629;&#3618;&#3605;&#3660;</gn:alternateName>
+<gn:alternateName xml:lang="tr">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="ug">D&#233;troyt</gn:alternateName>
+<gn:alternateName xml:lang="uk">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;</gn:alternateName>
+<gn:alternateName xml:lang="vi">Detroit</gn:alternateName>
+<gn:alternateName xml:lang="xmf">&#4307;&#4308;&#4311;&#4320;&#4317;&#4312;&#4311;&#4312;</gn:alternateName>
+<gn:alternateName xml:lang="yi">&#1491;&#1506;&#1496;&#1512;&#1493;&#1497;&#1496;</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#24213;&#29305;&#24459;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>713777</gn:population>
+<gn:postalCode>48222</gn:postalCode>
+<wgs84_pos:lat>42.33143</wgs84_pos:lat>
+<wgs84_pos:long>-83.04575</wgs84_pos:long>
+<wgs84_pos:alt>183</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990729/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990729/detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6632075/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6632075/about.rdf"/>
+<gn:name>Detroit Plateau</gn:name>
+<gn:alternateName xml:lang="en">Detroit Plateau</gn:alternateName>
+<gn:alternateName xml:lang="es">D&#233;troit, meseta</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.PLAT"/>
+<gn:countryCode>AQ</gn:countryCode>
+<wgs84_pos:lat>-64.166</wgs84_pos:lat>
+<wgs84_pos:long>-60</wgs84_pos:long>
+<wgs84_pos:alt>1800</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6697173/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/6632075/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6632075/detroit-plateau.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Plateau"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Plateau"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6640370/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6640370/about.rdf"/>
+<gn:name>Hudson Strait</gn:name>
+<gn:alternateName xml:lang="en">Hudson Strait</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit d'Hudson</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<wgs84_pos:lat>62</wgs84_pos:lat>
+<wgs84_pos:long>-70</wgs84_pos:long>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/6640370/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6640370/hudson-strait.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Hudson_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Hudson_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/298795/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/298795/about.rdf"/>
+<gn:name>Turkey</gn:name>
+<gn:alternateName xml:lang="af">Turkye</gn:alternateName>
+<gn:alternateName xml:lang="ak">T&#603;&#603;ki</gn:alternateName>
+<gn:alternateName xml:lang="am">&#4721;&#4653;&#4781;</gn:alternateName>
+<gn:alternateName xml:lang="an">Turqu&#237;a</gn:alternateName>
+<gn:alternateName xml:lang="ar">&#1578;&#1585;&#1603;&#1610;&#1575;</gn:alternateName>
+<gn:alternateName xml:lang="arc">&#1819;&#1816;&#1834;&#1833;&#1821;&#1808;</gn:alternateName>
+<gn:alternateName xml:lang="ast">Turqu&#237;a</gn:alternateName>
+<gn:alternateName xml:lang="az">T&#252;rkiya</gn:alternateName>
+<gn:alternateName xml:lang="be">&#1058;&#1091;&#1088;&#1094;&#1099;&#1103;</gn:alternateName>
+<gn:alternateName xml:lang="bg">&#1058;&#1091;&#1088;&#1094;&#1080;&#1103;</gn:alternateName>
+<gn:alternateName xml:lang="bm">Turiki</gn:alternateName>
+<gn:alternateName xml:lang="bn">&#2468;&#2497;&#2480;&#2488;&#2509;&#2453;</gn:alternateName>
+<gn:alternateName xml:lang="bo">&#3919;&#3956;&#3938;&#3904;&#3954;&#3853;</gn:alternateName>
+<gn:alternateName xml:lang="br">Turkia</gn:alternateName>
+<gn:alternateName xml:lang="bs">Turska</gn:alternateName>
+<gn:alternateName xml:lang="ca">Turquia</gn:alternateName>
+<gn:alternateName xml:lang="cs">Turecko</gn:alternateName>
+<gn:alternateName xml:lang="cv">&#1058;&#1091;&#1088;&#1094;&#1080;</gn:alternateName>
+<gn:alternateName xml:lang="cy">Twrci</gn:alternateName>
+<gn:alternateName xml:lang="da">Tyrkiet</gn:alternateName>
+<gn:alternateName xml:lang="de">T&#252;rkei</gn:alternateName>
+<gn:alternateName xml:lang="diq">T&#305;rkiya</gn:alternateName>
+<gn:alternateName xml:lang="ee">T&#603;ki nutome</gn:alternateName>
+<gn:alternateName xml:lang="el">&#932;&#959;&#965;&#961;&#954;&#943;&#945;</gn:alternateName>
+<gn:alternateName xml:lang="en">Turkey</gn:alternateName>
+<gn:alternateName xml:lang="eo">Turkio</gn:alternateName>
+<gn:alternateName xml:lang="es">Turqu&#237;a</gn:alternateName>
+<gn:alternateName xml:lang="et">T&#252;rgi</gn:alternateName>
+<gn:alternateName xml:lang="eu">Turkia</gn:alternateName>
+<gn:alternateName xml:lang="fa">&#1578;&#1585;&#1705;&#1740;&#1607;</gn:alternateName>
+<gn:alternateName xml:lang="ff">Turkii</gn:alternateName>
+<gn:alternateName xml:lang="fi">Turkki</gn:alternateName>
+<gn:alternateName xml:lang="fo">Turkaland</gn:alternateName>
+<gn:alternateName xml:lang="fr">Turquie</gn:alternateName>
+<gn:alternateName xml:lang="fy">Turkije</gn:alternateName>
+<gn:alternateName xml:lang="ga">An Tuirc</gn:alternateName>
+<gn:alternateName xml:lang="gd">An Tuirc</gn:alternateName>
+<gn:alternateName xml:lang="gl">Turqu&#237;a</gn:alternateName>
+<gn:alternateName xml:lang="gu">&#2724;&#2753;&#2736;&#2765;&#2709;&#2744;&#2765;&#2724;&#2750;&#2728;</gn:alternateName>
+<gn:alternateName xml:lang="ha">Turkiyya</gn:alternateName>
+<gn:alternateName xml:lang="hbs">Turska</gn:alternateName>
+<gn:alternateName xml:lang="he">&#1514;&#1493;&#1512;&#1499;&#1497;&#1492;</gn:alternateName>
+<gn:alternateName xml:lang="hi">&#2340;&#2369;&#2352;&#2381;&#2325;&#2368;</gn:alternateName>
+<gn:alternateName xml:lang="hr">Turska</gn:alternateName>
+<gn:alternateName xml:lang="hsb">Turkowska</gn:alternateName>
+<gn:alternateName xml:lang="hu">T&#246;r&#246;korsz&#225;g</gn:alternateName>
+<gn:alternateName xml:lang="hy">&#1337;&#1400;&#1410;&#1408;&#1412;&#1387;&#1377;</gn:alternateName>
+<gn:alternateName xml:lang="ia">Turchia</gn:alternateName>
+<gn:alternateName xml:lang="id">Turki</gn:alternateName>
+<gn:alternateName xml:lang="io">Turkia</gn:alternateName>
+<gn:alternateName xml:lang="is">Tyrkland</gn:alternateName>
+<gn:alternateName xml:lang="it">Turchia</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#12488;&#12523;&#12467;&#20849;&#21644;&#22269;</gn:alternateName>
+<gn:alternateName xml:lang="ka">&#4311;&#4323;&#4320;&#4325;&#4308;&#4311;&#4312;</gn:alternateName>
+<gn:alternateName xml:lang="ki">Uturuki</gn:alternateName>
+<gn:alternateName xml:lang="kk">&#1058;&#1199;&#1088;&#1082;&#1080;&#1103;</gn:alternateName>
+<gn:alternateName xml:lang="kl">Tyrkia</gn:alternateName>
+<gn:alternateName xml:lang="km">&#6033;&#6077;&#6042;&#6018;&#6072;</gn:alternateName>
+<gn:alternateName xml:lang="kn">&#3231;&#3248;&#3277;&#3221;&#3263;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#53552;&#53412;</gn:alternateName>
+<gn:alternateName xml:lang="ks">&#2340;&#2369;&#2352;&#2381;&#2325;&#2367;&#2351;&#2375;</gn:alternateName>
+<gn:alternateName xml:lang="ku">&#1578;&#1608;&#1585;&#1705;&#1740;&#1575;</gn:alternateName>
+<gn:alternateName xml:lang="kw">Turki</gn:alternateName>
+<gn:alternateName xml:lang="la">Turcia</gn:alternateName>
+<gn:alternateName xml:lang="lb">Tierkei</gn:alternateName>
+<gn:alternateName xml:lang="lg">Ttake</gn:alternateName>
+<gn:alternateName xml:lang="li">Turkije</gn:alternateName>
+<gn:alternateName xml:lang="ln">Tiliki</gn:alternateName>
+<gn:alternateName xml:lang="lo">&#3733;&#3768;&#3737;&#3713;&#3765;</gn:alternateName>
+<gn:alternateName xml:lang="lt">Turkija</gn:alternateName>
+<gn:alternateName xml:lang="lu">Tuluki</gn:alternateName>
+<gn:alternateName xml:lang="lv">Turcija</gn:alternateName>
+<gn:alternateName xml:lang="mg">Torkia</gn:alternateName>
+<gn:alternateName xml:lang="mk">&#1058;&#1091;&#1088;&#1094;&#1080;&#1112;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="ml">&#3364;&#3393;&#3376;&#3405;&#8205;&#3349;&#3405;&#3349;&#3391;</gn:alternateName>
+<gn:alternateName xml:lang="mr">&#2340;&#2369;&#2352;&#2381;&#2325;&#2368;</gn:alternateName>
+<gn:alternateName xml:lang="ms">Turki</gn:alternateName>
+<gn:alternateName xml:lang="mt">Turkija</gn:alternateName>
+<gn:alternateName xml:lang="my">&#4112;&#4144;&#4123;&#4096;&#4142;</gn:alternateName>
+<gn:alternateName xml:lang="nap">Turchia</gn:alternateName>
+<gn:alternateName xml:lang="nb">Tyrkia</gn:alternateName>
+<gn:alternateName xml:lang="nd">Thekhi</gn:alternateName>
+<gn:alternateName xml:lang="nds">T&#246;rkie</gn:alternateName>
+<gn:alternateName xml:lang="ne">&#2335;&#2352;&#2381;&#2325;&#2368;</gn:alternateName>
+<gn:alternateName xml:lang="nl">Turkije</gn:alternateName>
+<gn:alternateName xml:lang="nn">Tyrkia</gn:alternateName>
+<gn:alternateName xml:lang="no">Tyrkia</gn:alternateName>
+<gn:alternateName xml:lang="nrm">Turtchie</gn:alternateName>
+<gn:alternateName xml:lang="oc">Turquia</gn:alternateName>
+<gn:alternateName xml:lang="or">&#2852;&#2881;&#2864;&#2893;&#2837;&#2880;</gn:alternateName>
+<gn:alternateName xml:lang="os">&#1058;&#1091;&#1088;&#1082;</gn:alternateName>
+<gn:alternateName xml:lang="pam">Turkia</gn:alternateName>
+<gn:alternateName xml:lang="pdc">Welschhinkel</gn:alternateName>
+<gn:alternateName xml:lang="pl">Turcja</gn:alternateName>
+<gn:alternateName xml:lang="pt">Turquia</gn:alternateName>
+<gn:alternateName xml:lang="qu">Turkya</gn:alternateName>
+<gn:alternateName xml:lang="rm">Tirchia</gn:alternateName>
+<gn:alternateName xml:lang="rmy">Turkiya</gn:alternateName>
+<gn:alternateName xml:lang="rn">Turukiya</gn:alternateName>
+<gn:alternateName xml:lang="ro">Turcia</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1058;&#1091;&#1088;&#1094;&#1080;&#1103;</gn:alternateName>
+<gn:alternateName xml:lang="sa">&#2340;&#2369;&#2352;&#2381;&#2325;&#2368;</gn:alternateName>
+<gn:alternateName xml:lang="scn">Turch&#236;a</gn:alternateName>
+<gn:alternateName xml:lang="sco">Turkey</gn:alternateName>
+<gn:alternateName xml:lang="se">Durka</gn:alternateName>
+<gn:alternateName xml:lang="sg">Turuk&#239;i</gn:alternateName>
+<gn:alternateName xml:lang="si">&#3501;&#3540;&#3515;&#3530;&#3482;&#3538;&#3514;</gn:alternateName>
+<gn:alternateName xml:lang="sk">Turecko</gn:alternateName>
+<gn:alternateName xml:lang="sl">Tur&#269;ija</gn:alternateName>
+<gn:alternateName xml:lang="sn">Turkey</gn:alternateName>
+<gn:alternateName xml:lang="so">Turki</gn:alternateName>
+<gn:alternateName xml:lang="sq">Turqi</gn:alternateName>
+<gn:alternateName xml:lang="sr">&#1058;&#1091;&#1088;&#1089;&#1082;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="sv">Turkiet</gn:alternateName>
+<gn:alternateName xml:lang="sw">Uturuki</gn:alternateName>
+<gn:alternateName xml:lang="ta">&#2980;&#3009;&#2992;&#3009;&#2965;&#3021;&#2965;&#3007;</gn:alternateName>
+<gn:alternateName xml:lang="te">&#3103;&#3120;&#3149;&#3093;&#3136;</gn:alternateName>
+<gn:alternateName xml:lang="th">&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3605;&#3640;&#3619;&#3585;&#3637;</gn:alternateName>
+<gn:alternateName xml:lang="ti">&#4721;&#4653;&#4781;</gn:alternateName>
+<gn:alternateName xml:lang="tk">T&#252;rki&#253;e</gn:alternateName>
+<gn:alternateName xml:lang="tl">Turkiya</gn:alternateName>
+<gn:alternateName xml:lang="to">Toake</gn:alternateName>
+<gn:alternateName xml:lang="tr">T&#252;rkiye</gn:alternateName>
+<gn:alternateName xml:lang="tt">&#1058;&#1257;&#1088;&#1082;&#1080;&#1103;</gn:alternateName>
+<gn:alternateName xml:lang="ug">&#1578;&#1736;&#1585;&#1603;&#1609;&#1610;&#1749; &#1580;&#1735;&#1605;&#1726;&#1735;&#1585;&#1609;&#1610;&#1609;&#1578;&#1609;</gn:alternateName>
+<gn:alternateName xml:lang="uk">&#1058;&#1091;&#1088;&#1077;&#1095;&#1095;&#1080;&#1085;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="ur">&#1578;&#1585;&#1705;&#1740;</gn:alternateName>
+<gn:alternateName xml:lang="uz">Turkiya</gn:alternateName>
+<gn:alternateName xml:lang="vi">Th&#7893; Nh&#297; K&#7923;</gn:alternateName>
+<gn:alternateName xml:lang="vo">T&#252;rk&#228;n</gn:alternateName>
+<gn:alternateName xml:lang="yi">&#1496;&#1506;&#1512;&#1511;&#1497;&#1497;</gn:alternateName>
+<gn:alternateName xml:lang="yo">Or&#237;l&#7865;&#769;&#232;de T&#7885;&#7885;ki</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#22303;&#32819;&#20854;</gn:alternateName>
+<gn:alternateName xml:lang="zu">i-Turkey</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+<gn:countryCode>TR</gn:countryCode>
+<gn:population>77804122</gn:population>
+<wgs84_pos:lat>39</wgs84_pos:lat>
+<wgs84_pos:long>35</wgs84_pos:long>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/298795/contains.rdf"/>
+<gn:neighbouringFeatures rdf:resource="http://sws.geonames.org/298795/neighbours.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/298795/republic-of-turkey.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Turkey"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Turkey"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/3424931/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3424931/about.rdf"/>
+<gn:name>Davis Strait</gn:name>
+<gn:alternateName xml:lang="da">Davisstr&#230;det</gn:alternateName>
+<gn:alternateName xml:lang="en">Davis Strait</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Davis</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<wgs84_pos:lat>64</wgs84_pos:lat>
+<wgs84_pos:long>-57</wgs84_pos:long>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3424931/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/3424931/davis-strait.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Davis_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Davis_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6955112/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6955112/about.rdf"/>
+<gn:name>Detroit-Warren-Livonia</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.RGNE"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>4425110</gn:population>
+<wgs84_pos:lat>42.34231</wgs84_pos:lat>
+<wgs84_pos:long>-83.07175</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/6955112/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6955112/detroit-warren-livonia.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/1818192/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/1818192/about.rdf"/>
+<gn:name>Strait of Malacca</gn:name>
+<gn:alternateName xml:lang="fr">D&#233;troit de Malacca</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>ID</gn:countryCode>
+<wgs84_pos:lat>2.5</wgs84_pos:lat>
+<wgs84_pos:long>101.33333</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/1643084/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/1818192/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/1818192/strait-of-malacca.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Malacca_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Malacca_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2130878/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2130878/about.rdf"/>
+<gn:name>Detroit Tablemount</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#U"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#U.TMTU"/>
+<wgs84_pos:lat>51.25</wgs84_pos:lat>
+<wgs84_pos:long>167.75</wgs84_pos:long>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2130878/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2130878/detroit-tablemount.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5024238/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5024238/about.rdf"/>
+<gn:name>Detroit Lakes Airport</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.AIRP"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>46.82496</wgs84_pos:lat>
+<wgs84_pos:long>-95.88588</wgs84_pos:long>
+<wgs84_pos:alt>419</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5024238/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5024238/detroit-lakes-airport.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Lakes_Airport"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Lakes_Airport"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/1545865/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/1545865/about.rdf"/>
+<gn:name>D&#233;troit de Tucker</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>TF</gn:countryCode>
+<wgs84_pos:lat>-49.11131</wgs84_pos:lat>
+<wgs84_pos:long>69.19836</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/1546748/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/1545865/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/1545865/detroit-de-tucker.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5938353/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5938353/about.rdf"/>
+<gn:name>D&#233;troit d'Honguedo</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHN"/>
+<gn:countryCode>CA</gn:countryCode>
+<wgs84_pos:lat>49.25012</wgs84_pos:lat>
+<wgs84_pos:long>-63.99864</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6251999/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5938353/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5938353/detroit-d-honguedo.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Honguedo_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Honguedo_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2731148/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2731148/about.rdf"/>
+<gn:name>Forlandsundet</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>78.51013</wgs84_pos:lat>
+<wgs84_pos:long>11.98421</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2731148/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2731148/forlandsundet.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Forlandsundet"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Forlandsundet"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5938356/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5938356/about.rdf"/>
+<gn:name>D&#233;troit Greenstone</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.VAL"/>
+<gn:countryCode>CA</gn:countryCode>
+<wgs84_pos:lat>49.10328</wgs84_pos:lat>
+<wgs84_pos:long>-77.15585</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6251999/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5938356/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5938356/detroit-greenstone.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/607319/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/607319/about.rdf"/>
+<gn:name>Hinlopenstretet</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>79.24588</wgs84_pos:lat>
+<wgs84_pos:long>20.72842</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/607319/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/607319/hinlopenstretet.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990730/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990730/about.rdf"/>
+<gn:name>Detroit Beach</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>2087</gn:population>
+<wgs84_pos:lat>41.93116</wgs84_pos:lat>
+<wgs84_pos:long>-83.32688</wgs84_pos:long>
+<wgs84_pos:alt>175</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990730/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990730/detroit-beach.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Beach%2C_Michigan"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Beach%2C_Michigan"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990733/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990733/about.rdf"/>
+<gn:name>Detroit City Airport</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.AIRP"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.4092</wgs84_pos:lat>
+<wgs84_pos:long>-83.00964</wgs84_pos:long>
+<wgs84_pos:alt>190</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990733/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990733/detroit-city-airport.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Coleman_A._Young_International_Airport"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Coleman_A._Young_International_Airport"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990742/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990742/about.rdf"/>
+<gn:name>Detroit Metropolitan Wayne County Airport</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.AIRP"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.22205</wgs84_pos:lat>
+<wgs84_pos:long>-83.35147</wgs84_pos:long>
+<wgs84_pos:alt>195</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990742/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990742/detroit-metropolitan-wayne-county-airport.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Metropolitan_Wayne_County_Airport"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Metropolitan_Wayne_County_Airport"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4058738/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4058738/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:alternateName xml:lang="ru">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>237</gn:population>
+<gn:postalCode>35552</gn:postalCode>
+<wgs84_pos:lat>34.02816</wgs84_pos:lat>
+<wgs84_pos:long>-88.17004</wgs84_pos:long>
+<wgs84_pos:alt>111</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4058738/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4058738/detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit%2C_Alabama"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit%2C_Alabama"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5722994/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5722994/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:alternateName xml:lang="ru">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>202</gn:population>
+<gn:postalCode>97342</gn:postalCode>
+<wgs84_pos:lat>44.73401</wgs84_pos:lat>
+<wgs84_pos:long>-122.1498</wgs84_pos:long>
+<wgs84_pos:alt>491</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5722994/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5722994/detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit%2C_Oregon"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit%2C_Oregon"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/73076/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/73076/about.rdf"/>
+<gn:name>Bab el Mandeb</gn:name>
+<gn:alternateName xml:lang="ar">&#1576;&#1575;&#1576; &#1575;&#1604;&#1605;&#1606;&#1583;&#1576;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>DJ</gn:countryCode>
+<wgs84_pos:lat>12.58333</wgs84_pos:lat>
+<wgs84_pos:long>43.35</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/223816/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/73076/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/73076/bab-el-mandeb.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4685987/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4685987/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:alternateName xml:lang="ru">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>732</gn:population>
+<gn:postalCode>75436</gn:postalCode>
+<wgs84_pos:lat>33.6615</wgs84_pos:lat>
+<wgs84_pos:long>-95.26662</wgs84_pos:long>
+<wgs84_pos:alt>147</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4685987/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4685987/detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit%2C_Texas"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit%2C_Texas"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4962481/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4962481/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:alternateName xml:lang="ru">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>848</gn:population>
+<gn:postalCode>04929</gn:postalCode>
+<wgs84_pos:lat>44.79257</wgs84_pos:lat>
+<wgs84_pos:long>-69.29671</wgs84_pos:long>
+<wgs84_pos:alt>56</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4962481/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4962481/detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit%2C_Maine"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit%2C_Maine"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5024237/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5024237/about.rdf"/>
+<gn:name>Detroit Lakes</gn:name>
+<gn:alternateName xml:lang="fa">&#1583;&#1740;&#1578;&#1585;&#1608;&#1740;&#1578; &#1604;&#1740;&#1705;&#1586;&#1548; &#1605;&#1740;&#1606;&#1607;&#8204;&#1587;&#1608;&#1578;&#1575;</gn:alternateName>
+<gn:alternateName xml:lang="kk">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090; &#1051;&#1101;&#1081;&#1082;&#1089;</gn:alternateName>
+<gn:alternateName xml:lang="mk">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090; &#1045;&#1079;&#1077;&#1088;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1044;&#1077;&#1090;&#1088;&#1086;&#1081;&#1090;-&#1051;&#1077;&#1081;&#1082;&#1089;</gn:alternateName>
+<gn:alternateName xml:lang="sr">&#1044;&#1080;&#1090;&#1088;&#1086;&#1112;&#1090; &#1051;&#1077;&#1112;&#1082;&#1089;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPLA2"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>8569</gn:population>
+<gn:postalCode>56501</gn:postalCode>
+<wgs84_pos:lat>46.81718</wgs84_pos:lat>
+<wgs84_pos:long>-95.84533</wgs84_pos:long>
+<wgs84_pos:alt>418</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5024237/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5024237/detroit-lakes.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Lakes%2C_Minnesota"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Lakes%2C_Minnesota"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/8062662/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/8062662/about.rdf"/>
+<gn:name>Detroit-Shoreway</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>41.47772</wgs84_pos:lat>
+<wgs84_pos:long>-81.72991</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8062662/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/8062662/detroit-shoreway.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit-Shoreway"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit-Shoreway"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2363256/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2363256/about.rdf"/>
+<gn:name>Strait of Gibraltar</gn:name>
+<gn:alternateName xml:lang="en">Strait of Gibraltar</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de Gibraltar</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Gibraltar</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>GI</gn:countryCode>
+<wgs84_pos:lat>35.95</wgs84_pos:lat>
+<wgs84_pos:long>-5.6</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/2411586/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2363256/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2363256/strait-of-gibraltar.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Strait_of_Gibraltar"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Strait_of_Gibraltar"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2732177/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2732177/about.rdf"/>
+<gn:name>Agardhbukta</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.BAY"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>78.02148</wgs84_pos:lat>
+<wgs84_pos:long>18.51935</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2732177/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2732177/agardhbukta.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Agardhbukta"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Agardhbukta"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/607441/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/607441/about.rdf"/>
+<gn:name>Bj&#248;rnsundet</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>79.13794</wgs84_pos:lat>
+<wgs84_pos:long>19.95061</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/607441/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/607441/bjornsundet.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bj%C3%B8rnsundet"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bj%C3%B8rnsundet"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4270359/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4270359/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>114</gn:population>
+<wgs84_pos:lat>38.935</wgs84_pos:lat>
+<wgs84_pos:long>-97.12085</wgs84_pos:long>
+<wgs84_pos:alt>347</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4270359/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4270359/detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit%2C_Kansas"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit%2C_Kansas"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5981991/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5981991/about.rdf"/>
+<gn:name>&#206;les du D&#233;troit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.ISL"/>
+<gn:countryCode>CA</gn:countryCode>
+<wgs84_pos:lat>45.87677</wgs84_pos:lat>
+<wgs84_pos:long>-71.14796</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6251999/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5981991/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5981991/iles-du-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5250503/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5250503/about.rdf"/>
+<gn:name>Detroit Harbor</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>45.35665</wgs84_pos:lat>
+<wgs84_pos:long>-86.93067</wgs84_pos:long>
+<wgs84_pos:alt>184</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5250503/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5250503/detroit-harbor.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Harbor%2C_Wisconsin"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Harbor%2C_Wisconsin"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5250505/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5250505/about.rdf"/>
+<gn:name>Detroit Island</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.ISL"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>45.31665</wgs84_pos:lat>
+<wgs84_pos:long>-86.91067</wgs84_pos:long>
+<wgs84_pos:alt>181</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5250505/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5250505/detroit-island.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Island"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Island"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/3562478/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3562478/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.LCTY"/>
+<gn:countryCode>CU</gn:countryCode>
+<wgs84_pos:lat>19.96667</wgs84_pos:lat>
+<wgs84_pos:long>-76.53333</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/3562981/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3562478/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/3562478/detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/8094435/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/8094435/about.rdf"/>
+<gn:name>Detroit Arsenal Tank Plant Historical Marker</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.PRK"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.49926</wgs84_pos:lat>
+<wgs84_pos:long>-83.02893</wgs84_pos:long>
+<wgs84_pos:alt>188</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8094435/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/8094435/detroit-arsenal-tank-plant-historical-marker.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Arsenal_Tank_Plant"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Arsenal_Tank_Plant"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/3004351/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3004351/about.rdf"/>
+<gn:name>Le D&#233;troit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>FR</gn:countryCode>
+<gn:population>93</gn:population>
+<gn:postalCode>14690</gn:postalCode>
+<wgs84_pos:lat>48.86858</wgs84_pos:lat>
+<wgs84_pos:long>-0.35142</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/3017382/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3004351/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/3004351/le-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4535028/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4535028/about.rdf"/>
+<gn:name>Detroit Township</gn:name>
+<gn:alternateName xml:lang="en">Detroit Township</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>36.24448</wgs84_pos:lat>
+<wgs84_pos:long>-99.33094</wgs84_pos:long>
+<wgs84_pos:alt>641</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/4535028/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4535028/township-of-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5024241/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5024241/about.rdf"/>
+<gn:name>Detroit Township</gn:name>
+<gn:alternateName xml:lang="en">Detroit Township</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>46.85517</wgs84_pos:lat>
+<wgs84_pos:long>-95.86096</wgs84_pos:long>
+<wgs84_pos:alt>415</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/5024241/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5024241/township-of-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Township%2C_Becker_County%2C_Minnesota"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Township%2C_Becker_County%2C_Minnesota"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4031767/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4031767/about.rdf"/>
+<gn:name>Bering Strait</gn:name>
+<gn:alternateName xml:lang="af">Beringstraat</gn:alternateName>
+<gn:alternateName xml:lang="ar">&#1605;&#1590;&#1610;&#1602; &#1576;&#1575;&#1610;&#1585;&#1606;&#1594;</gn:alternateName>
+<gn:alternateName xml:lang="bg">&#1041;&#1077;&#1088;&#1080;&#1085;&#1075;&#1086;&#1074; &#1087;&#1088;&#1086;&#1090;&#1086;&#1082;</gn:alternateName>
+<gn:alternateName xml:lang="ca">Estret de Bering</gn:alternateName>
+<gn:alternateName xml:lang="cs">Bering&#367;v pr&#367;liv</gn:alternateName>
+<gn:alternateName xml:lang="da">Beringstr&#230;det</gn:alternateName>
+<gn:alternateName xml:lang="de">Beringstra&#223;e</gn:alternateName>
+<gn:alternateName xml:lang="el">&#914;&#949;&#961;&#943;&#947;&#947;&#949;&#953;&#959;&#962; &#928;&#959;&#961;&#952;&#956;&#972;&#962;</gn:alternateName>
+<gn:alternateName xml:lang="en">Bering Strait</gn:alternateName>
+<gn:alternateName xml:lang="eo">Beringa Markolo</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de Bering</gn:alternateName>
+<gn:alternateName xml:lang="et">Beringi v&#228;in</gn:alternateName>
+<gn:alternateName xml:lang="fi">Beringinsalmi</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de B&#233;ring</gn:alternateName>
+<gn:alternateName xml:lang="gl">Estreito de Bering</gn:alternateName>
+<gn:alternateName xml:lang="he">&#1502;&#1510;&#1512; &#1489;&#1512;&#1497;&#1504;&#1490;</gn:alternateName>
+<gn:alternateName xml:lang="hu">Bering-szoros</gn:alternateName>
+<gn:alternateName xml:lang="id">Selat Bering</gn:alternateName>
+<gn:alternateName xml:lang="is">Beringssund</gn:alternateName>
+<gn:alternateName xml:lang="it">Stretto di Bering</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#12505;&#12540;&#12522;&#12531;&#12464;&#28023;&#23777;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#48288;&#47553; &#54644;&#54801;</gn:alternateName>
+<gn:alternateName xml:lang="lb">Beringstrooss</gn:alternateName>
+<gn:alternateName xml:lang="lt">Beringo s&#261;siauris</gn:alternateName>
+<gn:alternateName xml:lang="nl">Beringstraat</gn:alternateName>
+<gn:alternateName xml:lang="nn">Beringsundet</gn:alternateName>
+<gn:alternateName xml:lang="no">Beringstredet</gn:alternateName>
+<gn:alternateName xml:lang="pl">Cie&#347;nina Beringa</gn:alternateName>
+<gn:alternateName xml:lang="pt">Estreito de Bering</gn:alternateName>
+<gn:alternateName xml:lang="ro">Str&#226;mtoarea Bering</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1041;&#1077;&#1088;&#1080;&#1085;&#1075;&#1086;&#1074; &#1087;&#1088;&#1086;&#1083;&#1080;&#1074;</gn:alternateName>
+<gn:alternateName xml:lang="se">Bering&#269;oalbmi</gn:alternateName>
+<gn:alternateName xml:lang="sk">Beringov prieliv</gn:alternateName>
+<gn:alternateName xml:lang="sv">Berings sund</gn:alternateName>
+<gn:alternateName xml:lang="tr">Bering Bo&#287;az&#305;</gn:alternateName>
+<gn:alternateName xml:lang="uk">&#1041;&#1077;&#1088;&#1080;&#1085;&#1169;&#1086;&#1074;&#1072; &#1087;&#1088;&#1086;&#1090;&#1086;&#1082;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="vi">Eo bi&#7875;n Bering</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#30333;&#20196;&#28023;&#23777;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<wgs84_pos:lat>66</wgs84_pos:lat>
+<wgs84_pos:long>-169</wgs84_pos:long>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4031767/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4031767/bering-strait.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Bering_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bering_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2194167/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2194167/about.rdf"/>
+<gn:name>Cook Strait</gn:name>
+<gn:alternateName xml:lang="ar">&#1603;&#1608;&#1603;</gn:alternateName>
+<gn:alternateName xml:lang="de">Cookstra&#223;e</gn:alternateName>
+<gn:alternateName xml:lang="en">Cook Strait</gn:alternateName>
+<gn:alternateName xml:lang="et">Cooki v&#228;in</gn:alternateName>
+<gn:alternateName xml:lang="fi">Cookinsalmi</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Cook</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#12463;&#12483;&#12463;&#28023;&#23777;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#53217; &#54644;&#54801;</gn:alternateName>
+<gn:alternateName xml:lang="mk">&#1050;&#1091;&#1082;&#1086;&#1074; &#1087;&#1088;&#1086;&#1090;&#1086;&#1082;</gn:alternateName>
+<gn:alternateName xml:lang="nl">Straat Cook</gn:alternateName>
+<gn:alternateName xml:lang="pl">Cie&#347;nina Cooka</gn:alternateName>
+<gn:alternateName xml:lang="pt">Estreito de Cook</gn:alternateName>
+<gn:alternateName xml:lang="sv">Cooksundet</gn:alternateName>
+<gn:alternateName xml:lang="tr">Cook Bo&#287;az&#305;</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#24235;&#20811;&#28023;&#23805;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<wgs84_pos:lat>-41.25</wgs84_pos:lat>
+<wgs84_pos:long>174.5</wgs84_pos:long>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2194167/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2194167/cook-strait.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Cook_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cook_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2728709/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2728709/about.rdf"/>
+<gn:name>Smeerenburgfjorden</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.FJD"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>79.68128</wgs84_pos:lat>
+<wgs84_pos:long>11.15786</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2728709/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2728709/smeerenburgfjorden.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Fairhaven_%28Svalbard%29"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fairhaven_%28Svalbard%29"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2731111/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2731111/about.rdf"/>
+<gn:name>Franklinsundet</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>80.23878</wgs84_pos:lat>
+<wgs84_pos:long>17.97078</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2731111/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2731111/franklinsundet.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Franklinsundet"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Franklinsundet"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2731904/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2731904/about.rdf"/>
+<gn:name>Beverlysundet</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>80.50334</wgs84_pos:lat>
+<wgs84_pos:long>19.78719</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2731904/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2731904/beverlysundet.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/1880132/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/1880132/about.rdf"/>
+<gn:name>Singapore Strait</gn:name>
+<gn:alternateName xml:lang="fr">D&#233;troit de Singapour</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<wgs84_pos:lat>1.25</wgs84_pos:lat>
+<wgs84_pos:long>104</wgs84_pos:long>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/1880132/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/1880132/singapore-strait.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Singapore_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Singapore_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/607226/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/607226/about.rdf"/>
+<gn:name>Lydiannasundet</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>SJ</gn:countryCode>
+<wgs84_pos:lat>78.93681</wgs84_pos:lat>
+<wgs84_pos:long>29.90846</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/607072/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/607226/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/607226/lydiannasundet.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Lydiannasundet"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Lydiannasundet"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/3514209/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3514209/about.rdf"/>
+<gn:name>Yucatan Channel</gn:name>
+<gn:alternateName xml:lang="en">Yucatan Channel</gn:alternateName>
+<gn:alternateName xml:lang="es">Canal de Yucat&#225;n</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit du Yucatan</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>MX</gn:countryCode>
+<wgs84_pos:lat>21.75</wgs84_pos:lat>
+<wgs84_pos:long>-85.75</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/3996063/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3514209/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/3514209/yucatan-channel.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2702257/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2702257/about.rdf"/>
+<gn:name>Kalmar Strait</gn:name>
+<gn:alternateName xml:lang="bg">&#1050;&#1072;&#1083;&#1084;&#1072;&#1088;&#1089;&#1091;&#1085;&#1076;</gn:alternateName>
+<gn:alternateName xml:lang="en">Kalmar Strait</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de Kalmar</gn:alternateName>
+<gn:alternateName xml:lang="et">Kalmari v&#228;in</gn:alternateName>
+<gn:alternateName xml:lang="eu">Kalmarko itsasartea</gn:alternateName>
+<gn:alternateName xml:lang="fi">Kalmarinsalmi</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Kalmar</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#12459;&#12523;&#12510;&#12523;&#28023;&#23777;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#52860;&#47560;&#47476; &#54644;&#54801;</gn:alternateName>
+<gn:alternateName xml:lang="lt">Kalmarsiundas</gn:alternateName>
+<gn:alternateName xml:lang="pl">Cie&#347;nina Kalmarska</gn:alternateName>
+<gn:alternateName xml:lang="pt">Estreito de Kalmar</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1050;&#1072;&#1083;&#1100;&#1084;&#1072;&#1088;&#1089;&#1091;&#1085;&#1076;</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#21345;&#23572;&#39532;&#28023;&#23777;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.SD"/>
+<gn:countryCode>SE</gn:countryCode>
+<wgs84_pos:lat>56.66667</wgs84_pos:lat>
+<wgs84_pos:long>16.41667</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/2661886/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2702257/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2702257/kalmarsund.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Kalmar_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Kalmar_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6633793/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6633793/about.rdf"/>
+<gn:name>Gerlache Strait</gn:name>
+<gn:alternateName xml:lang="en">Gerlache Strait</gn:alternateName>
+<gn:alternateName xml:lang="es">De Gerlache, Estrecho</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHN"/>
+<gn:countryCode>AQ</gn:countryCode>
+<wgs84_pos:lat>-64.5</wgs84_pos:lat>
+<wgs84_pos:long>-62.333</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6697173/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/6633793/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6633793/de-gerlanche-estrecho.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6637890/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6637890/about.rdf"/>
+<gn:name>McMurdo Sound</gn:name>
+<gn:alternateName xml:lang="ca">Estret McMurdo</gn:alternateName>
+<gn:alternateName xml:lang="de">McMurdo-Sund</gn:alternateName>
+<gn:alternateName xml:lang="en">McMurdo Sound</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de McMurdo</gn:alternateName>
+<gn:alternateName xml:lang="eu">McMurdo itsasartea</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de McMurdo</gn:alternateName>
+<gn:alternateName xml:lang="he">&#1502;&#1510;&#1512; &#1502;&#1511;-&#1502;&#1512;&#1491;&#1493;</gn:alternateName>
+<gn:alternateName xml:lang="it">Canale McMurdo</gn:alternateName>
+<gn:alternateName xml:lang="ka">&#4315;&#4304;&#4313;-&#4315;&#4308;&#4320;&#4307;&#4317;&#4321; &#4321;&#4320;&#4323;&#4322;&#4308;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#47589;&#47672;&#46020; &#47564;</gn:alternateName>
+<gn:alternateName xml:lang="lv">Makmerdo &#353;aurums</gn:alternateName>
+<gn:alternateName xml:lang="no">McMurdo-sundet</gn:alternateName>
+<gn:alternateName xml:lang="pt">Estreito de McMurdo</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1052;&#1072;&#1082;-&#1052;&#1105;&#1088;&#1076;&#1086;</gn:alternateName>
+<gn:alternateName xml:lang="sv">McMurdosundet</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#40614;&#20811;&#40664;&#22810;&#28286;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHN"/>
+<gn:countryCode>AQ</gn:countryCode>
+<wgs84_pos:lat>-77.5</wgs84_pos:lat>
+<wgs84_pos:long>165</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6697173/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/6637890/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6637890/mcmurdo-sound.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/McMurdo_Sound"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/McMurdo_Sound"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4962482/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4962482/about.rdf"/>
+<gn:name>Town of Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>44.76238</wgs84_pos:lat>
+<wgs84_pos:long>-69.31131</wgs84_pos:long>
+<wgs84_pos:alt>56</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/4962482/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4962482/town-of-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990752/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990752/about.rdf"/>
+<gn:name>City of Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>713777</gn:population>
+<wgs84_pos:lat>42.38341</wgs84_pos:lat>
+<wgs84_pos:long>-83.10241</wgs84_pos:long>
+<wgs84_pos:alt>194</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/4990752/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990752/city-of-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5024239/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5024239/about.rdf"/>
+<gn:name>Detroit Lakes, City of</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>46.81306</wgs84_pos:lat>
+<wgs84_pos:long>-95.84222</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/5024239/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5024239/detroit-lakes-city-of.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5024246/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5024246/about.rdf"/>
+<gn:name>Detroit Lake</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.LK"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>46.78893</wgs84_pos:lat>
+<wgs84_pos:long>-95.83227</wgs84_pos:long>
+<wgs84_pos:alt>407</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5024246/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5024246/detroit-lake.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/7166422/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7166422/about.rdf"/>
+<gn:name>Village of Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>83</gn:population>
+<wgs84_pos:lat>39.62015</wgs84_pos:lat>
+<wgs84_pos:long>-90.67596</wgs84_pos:long>
+<wgs84_pos:alt>194</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/7166422/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/7166422/village-of-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/7171616/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7171616/about.rdf"/>
+<gn:name>Town of Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>237</gn:population>
+<wgs84_pos:lat>34.02738</wgs84_pos:lat>
+<wgs84_pos:long>-88.16783</wgs84_pos:long>
+<wgs84_pos:alt>126</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/7171616/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/7171616/town-of-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/7173305/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7173305/about.rdf"/>
+<gn:name>City of Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>202</gn:population>
+<wgs84_pos:lat>44.73382</wgs84_pos:lat>
+<wgs84_pos:long>-122.15121</wgs84_pos:long>
+<wgs84_pos:alt>489</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/7173305/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/7173305/city-of-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/287878/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/287878/about.rdf"/>
+<gn:name>Strait of Hormuz</gn:name>
+<gn:alternateName xml:lang="ar">&#1607;&#1585;&#1605;&#1586;</gn:alternateName>
+<gn:alternateName xml:lang="ca">Estret d'Ormuz</gn:alternateName>
+<gn:alternateName xml:lang="da">Hormuzstr&#230;det</gn:alternateName>
+<gn:alternateName xml:lang="de">Stra&#223;e von Hormuz</gn:alternateName>
+<gn:alternateName xml:lang="en">Strait of Hormuz</gn:alternateName>
+<gn:alternateName xml:lang="eo">Hormuza Markolo</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de Ormuz</gn:alternateName>
+<gn:alternateName xml:lang="et">Hormuze v&#228;in</gn:alternateName>
+<gn:alternateName xml:lang="fa">&#1578;&#1606;&#1711;&#1607; &#1607;&#1585;&#1605;&#1586;</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit d'Ormuz</gn:alternateName>
+<gn:alternateName xml:lang="gl">Estreito de Ormuz</gn:alternateName>
+<gn:alternateName xml:lang="he">&#1502;&#1510;&#1512; &#1492;&#1493;&#1512;&#1502;&#1493;&#1494;</gn:alternateName>
+<gn:alternateName xml:lang="hr">Hormu&#353;ki tjesnac</gn:alternateName>
+<gn:alternateName xml:lang="is">Horm&#250;ssund</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#12507;&#12523;&#12512;&#12474;&#28023;&#23777;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#54840;&#47476;&#47924;&#51592; &#54644;&#54801;</gn:alternateName>
+<gn:alternateName xml:lang="nl">Straat van Hormuz</gn:alternateName>
+<gn:alternateName xml:lang="no">Hormuzstredet</gn:alternateName>
+<gn:alternateName xml:lang="pl">Ormuz</gn:alternateName>
+<gn:alternateName xml:lang="pt">Estreito de Ormuz</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1054;&#1088;&#1084;&#1091;&#1079;&#1089;&#1082;&#1080;&#1081; &#1087;&#1088;&#1086;&#1083;&#1080;&#1074;</gn:alternateName>
+<gn:alternateName xml:lang="sv">Hormuzsundet</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#38669;&#29246;&#26408;&#33586;&#28023;&#23805;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>OM</gn:countryCode>
+<wgs84_pos:lat>26.56667</wgs84_pos:lat>
+<wgs84_pos:long>56.25</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/286963/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/287878/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/287878/strait-of-hormuz.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Strait_of_Hormuz"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Strait_of_Hormuz"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4237005/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4237005/about.rdf"/>
+<gn:name>Detroit Township</gn:name>
+<gn:alternateName xml:lang="en">Detroit Township</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>39.61595</wgs84_pos:lat>
+<wgs84_pos:long>-90.64302</wgs84_pos:long>
+<wgs84_pos:alt>198</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/4237005/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4237005/township-of-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit%2C_Illinois"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit%2C_Illinois"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6455557/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6455557/about.rdf"/>
+<gn:name>Le D&#233;troit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADM4"/>
+<gn:countryCode>FR</gn:countryCode>
+<gn:population>92</gn:population>
+<wgs84_pos:lat>48.86667</wgs84_pos:lat>
+<wgs84_pos:long>-0.35</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/3017382/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/6455557/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6455557/le-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Le_D%C3%A9troit"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Le_D%C3%A9troit"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/1546302/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/1546302/about.rdf"/>
+<gn:name>D&#233;troit de la Marianne</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>TF</gn:countryCode>
+<wgs84_pos:lat>-49.37287</wgs84_pos:lat>
+<wgs84_pos:long>68.79694</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/1546748/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/1546302/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/1546302/detroit-de-la-marianne.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5538136/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5538136/about.rdf"/>
+<gn:name>Detroit Mountains</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#T"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#T.MTS"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>39.55828</wgs84_pos:lat>
+<wgs84_pos:long>-113.05274</wgs84_pos:long>
+<wgs84_pos:alt>2013</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5538136/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5538136/detroit-mountains.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/7174844/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7174844/about.rdf"/>
+<gn:name>Town of Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>732</gn:population>
+<wgs84_pos:lat>33.66022</wgs84_pos:lat>
+<wgs84_pos:long>-95.26643</wgs84_pos:long>
+<wgs84_pos:alt>146</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/7174844/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/7174844/town-of-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/8610158/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/8610158/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#R"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#R.ST"/>
+<gn:countryCode>PH</gn:countryCode>
+<wgs84_pos:lat>14.3413</wgs84_pos:lat>
+<wgs84_pos:long>120.93322</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/1694008/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8610158/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/8610158/detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2134853/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2134853/about.rdf"/>
+<gn:name>Selwyn Strait</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>VU</gn:countryCode>
+<wgs84_pos:lat>-16.06667</wgs84_pos:lat>
+<wgs84_pos:long>168.18333</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/2134431/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2134853/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2134853/selwyn-strait.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2137264/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2137264/about.rdf"/>
+<gn:name>Bougainville Strait</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>VU</gn:countryCode>
+<wgs84_pos:lat>-15.83333</wgs84_pos:lat>
+<wgs84_pos:long>167.16667</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/2134431/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2137264/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2137264/bougainville-strait.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2123847/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2123847/about.rdf"/>
+<gn:name>La P&#233;rouse Strait</gn:name>
+<gn:alternateName xml:lang="de">La-P&#233;rouse-Stra&#223;e</gn:alternateName>
+<gn:alternateName xml:lang="en">La P&#233;rouse Strait</gn:alternateName>
+<gn:alternateName xml:lang="et">La P&#233;rouse'i v&#228;in</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de La P&#233;rouse</gn:alternateName>
+<gn:alternateName xml:lang="hu">La P&#233;rouse-szoros</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#23447;&#35895;&#28023;&#23777;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#46972;&#54168;&#47336;&#51592; &#54644;&#54801;</gn:alternateName>
+<gn:alternateName xml:lang="nl">Straat La P&#233;rouse</gn:alternateName>
+<gn:alternateName xml:lang="no">Proliv Laperuza</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1055;&#1088;&#1086;&#1083;&#1080;&#1074; &#1051;&#1072;&#1087;&#1077;&#1088;&#1091;&#1079;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="uk">&#1051;&#1072;&#1087;&#1077;&#1088;&#1091;&#1079;&#1072; &#1087;&#1088;&#1086;&#1090;&#1086;&#1082;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#25289;&#24444;&#39791;&#33586;&#28023;&#23805;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>RU</gn:countryCode>
+<wgs84_pos:lat>45.75</wgs84_pos:lat>
+<wgs84_pos:long>142</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/2017370/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2123847/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2123847/la-perouse-strait.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/La_P%C3%A9rouse_Strait"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/La_P%C3%A9rouse_Strait"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/3558765/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3558765/about.rdf"/>
+<gn:name>Straits of Florida</gn:name>
+<gn:alternateName xml:lang="en">Straits of Florida</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de la Florida</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Floride</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>CU</gn:countryCode>
+<wgs84_pos:lat>25</wgs84_pos:lat>
+<wgs84_pos:long>-79.75</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/3562981/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3558765/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/3558765/straits-of-florida.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6640420/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6640420/about.rdf"/>
+<gn:name>Strait of Belle Isle</gn:name>
+<gn:alternateName xml:lang="en">Strait of Belle Isle</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Belle Isle</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<wgs84_pos:lat>51.5</wgs84_pos:lat>
+<wgs84_pos:long>-56.5</wgs84_pos:long>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/6640420/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6640420/strait-of-belle-isle.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5230053/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5230053/about.rdf"/>
+<gn:name>North Detroit Township</gn:name>
+<gn:alternateName xml:lang="en">North Detroit Township</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>45.80613</wgs84_pos:lat>
+<wgs84_pos:long>-98.04128</wgs84_pos:long>
+<wgs84_pos:alt>392</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/5230053/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5230053/township-of-north-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5231940/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5231940/about.rdf"/>
+<gn:name>South Detroit Township</gn:name>
+<gn:alternateName xml:lang="en">South Detroit Township</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>45.7191</wgs84_pos:lat>
+<wgs84_pos:long>-98.04159</wgs84_pos:long>
+<wgs84_pos:alt>393</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/5231940/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5231940/township-of-south-detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5227292/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5227292/about.rdf"/>
+<gn:name>Detroit (historical) Township</gn:name>
+<gn:alternateName xml:lang="en">Detroit (historical) Township</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#A"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>45.76329</wgs84_pos:lat>
+<wgs84_pos:long>-98.04122</wgs84_pos:long>
+<wgs84_pos:alt>398</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:childrenFeatures rdf:resource="http://sws.geonames.org/5227292/contains.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5227292/township-of-detroit-historical.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5722995/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5722995/about.rdf"/>
+<gn:name>Detroit Dam</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.DAM"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>44.72096</wgs84_pos:lat>
+<wgs84_pos:long>-122.2498</wgs84_pos:long>
+<wgs84_pos:alt>477</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5722995/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5722995/detroit-dam.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Dam"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Dam"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5722997/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5722997/about.rdf"/>
+<gn:name>Detroit Lake</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.RSV"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>44.71092</wgs84_pos:lat>
+<wgs84_pos:long>-122.18867</wgs84_pos:long>
+<wgs84_pos:alt>478</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5722997/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5722997/detroit-lake.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Lake"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Lake"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/6343096/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/6343096/about.rdf"/>
+<gn:name>Detroit Opera House</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.BLDG"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.3367</wgs84_pos:lat>
+<wgs84_pos:long>-83.0487</wgs84_pos:long>
+<wgs84_pos:alt>183</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/6343096/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/6343096/detroit-opera-house.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Opera_House"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Opera_House"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990738/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990738/about.rdf"/>
+<gn:name>Detroit Golf Club</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.RECG"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.42643</wgs84_pos:lat>
+<wgs84_pos:long>-83.12631</wgs84_pos:long>
+<wgs84_pos:alt>197</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990738/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990738/detroit-golf-club.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Golf_Club"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Golf_Club"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990745/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990745/about.rdf"/>
+<gn:name>Detroit Race Course</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.38004</wgs84_pos:lat>
+<wgs84_pos:long>-83.32271</wgs84_pos:long>
+<wgs84_pos:alt>192</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990745/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990745/detroit-race-course.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Race_Course"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Race_Course"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990746/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990746/about.rdf"/>
+<gn:name>Detroit River</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STM"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.04116</wgs84_pos:lat>
+<wgs84_pos:long>-83.14965</wgs84_pos:long>
+<wgs84_pos:alt>174</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990746/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990746/detroit-river.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_River"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_River"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4990750/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4990750/about.rdf"/>
+<gn:name>Detroit Yacht Club</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.3492</wgs84_pos:lat>
+<wgs84_pos:long>-82.97353</wgs84_pos:long>
+<wgs84_pos:alt>175</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4990750/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4990750/detroit-yacht-club.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Yacht_Club"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Yacht_Club"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4991583/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4991583/about.rdf"/>
+<gn:name>East Detroit High School</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.SCH"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.46365</wgs84_pos:lat>
+<wgs84_pos:long>-82.96242</wgs84_pos:long>
+<wgs84_pos:alt>188</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4991583/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4991583/east-detroit-high-school.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/East_Detroit_High_School"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/East_Detroit_High_School"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013439/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013439/about.rdf"/>
+<gn:name>WDET-FM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.35782</wgs84_pos:lat>
+<wgs84_pos:long>-83.0652</wgs84_pos:long>
+<wgs84_pos:alt>192</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013439/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013439/wdet-fm-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WDET-FM"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WDET-FM"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013547/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013547/about.rdf"/>
+<gn:name>WJLB-FM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.40615</wgs84_pos:lat>
+<wgs84_pos:long>-83.11215</wgs84_pos:long>
+<wgs84_pos:alt>194</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013547/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013547/wjlb-fm-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WJLB"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WJLB"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013562/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013562/about.rdf"/>
+<gn:name>WJR-AM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.16865</wgs84_pos:lat>
+<wgs84_pos:long>-83.21604</wgs84_pos:long>
+<wgs84_pos:alt>181</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013562/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013562/wjr-am-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WJR"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WJR"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013569/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013569/about.rdf"/>
+<gn:name>WKBD-TV (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.48365</wgs84_pos:lat>
+<wgs84_pos:long>-83.31215</wgs84_pos:long>
+<wgs84_pos:alt>212</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013569/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013569/wkbd-tv-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WKBD-TV"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WKBD-TV"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013596/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013596/about.rdf"/>
+<gn:name>WKQI-FM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.47281</wgs84_pos:lat>
+<wgs84_pos:long>-83.19965</wgs84_pos:long>
+<wgs84_pos:alt>206</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013596/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013596/wkqi-fm-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WKQI"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WKQI"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013621/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013621/about.rdf"/>
+<gn:name>WLQV-AM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.23087</wgs84_pos:lat>
+<wgs84_pos:long>-83.19854</wgs84_pos:long>
+<wgs84_pos:alt>180</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013621/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013621/wlqv-am-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WLQV"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WLQV"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013657/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013657/about.rdf"/>
+<gn:name>WMUZ-FM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.37781</wgs84_pos:lat>
+<wgs84_pos:long>-83.24215</wgs84_pos:long>
+<wgs84_pos:alt>190</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013657/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013657/wmuz-fm-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WMUZ"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WMUZ"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013659/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013659/about.rdf"/>
+<gn:name>WMXD-FM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.3292</wgs84_pos:lat>
+<wgs84_pos:long>-83.0402</wgs84_pos:long>
+<wgs84_pos:alt>178</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013659/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013659/wmxd-fm-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WMXD"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WMXD"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013684/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013684/about.rdf"/>
+<gn:name>WOMC-FM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.47365</wgs84_pos:lat>
+<wgs84_pos:long>-83.11548</wgs84_pos:long>
+<wgs84_pos:alt>193</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013684/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013684/womc-fm-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WOMC"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WOMC"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013719/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013719/about.rdf"/>
+<gn:name>WRIF-FM (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.47087</wgs84_pos:lat>
+<wgs84_pos:long>-83.24993</wgs84_pos:long>
+<wgs84_pos:alt>203</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013719/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013719/wrif-fm-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WRIF"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WRIF"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/5013823/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/5013823/about.rdf"/>
+<gn:name>WXYZ-TV (Detroit)</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.TOWR"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.47087</wgs84_pos:lat>
+<wgs84_pos:long>-83.24993</wgs84_pos:long>
+<wgs84_pos:alt>203</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/5013823/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/5013823/wxyz-tv-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/WXYZ-TV"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/WXYZ-TV"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/8087018/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/8087018/about.rdf"/>
+<gn:name>The Fillmore Detroit</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.BLDG"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.33778</wgs84_pos:lat>
+<wgs84_pos:long>-83.05194</wgs84_pos:long>
+<wgs84_pos:alt>184</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8087018/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/8087018/the-fillmore-detroit.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/The_Fillmore_Detroit"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_Fillmore_Detroit"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/7123080/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7123080/about.rdf"/>
+<gn:name>Detroit Lakes High School</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.SCH"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>46.80833</wgs84_pos:lat>
+<wgs84_pos:long>-95.83722</wgs84_pos:long>
+<wgs84_pos:alt>411</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7123080/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/7123080/detroit-lakes-high-school.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Lakes_High_School"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Lakes_High_School"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/7144680/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7144680/about.rdf"/>
+<gn:name>Detroit Day School for the Deaf</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.SCH"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.3502</wgs84_pos:lat>
+<wgs84_pos:long>-83.0731</wgs84_pos:long>
+<wgs84_pos:alt>189</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7144680/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/7144680/detroit-day-school-for-the-deaf.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Day_School_for_the_Deaf"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Day_School_for_the_Deaf"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/7144694/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/7144694/about.rdf"/>
+<gn:name>Detroit Receiving Hospital</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.HSP"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.3536</wgs84_pos:lat>
+<wgs84_pos:long>-83.05404</wgs84_pos:long>
+<wgs84_pos:alt>191</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/7144694/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/7144694/detroit-receiving-hospital.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_Receiving_Hospital"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_Receiving_Hospital"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/8478939/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/8478939/about.rdf"/>
+<gn:name>Detroit High School</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.SCH"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>33.66079</wgs84_pos:lat>
+<wgs84_pos:long>-95.26272</wgs84_pos:long>
+<wgs84_pos:alt>145</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8478939/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/8478939/detroit-high-school.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Detroit_High_School_%28Texas%29"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Detroit_High_School_%28Texas%29"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/3845265/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/3845265/about.rdf"/>
+<gn:name>Strait of Magellan</gn:name>
+<gn:alternateName xml:lang="en">Strait of Magellan</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de Magallanes</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Magellan</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>AR</gn:countryCode>
+<wgs84_pos:lat>-54</wgs84_pos:lat>
+<wgs84_pos:long>-71</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/3865483/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/3845265/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/3845265/strait-of-magellan.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/2524168/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/2524168/about.rdf"/>
+<gn:name>Strait of Messina</gn:name>
+<gn:alternateName xml:lang="ar">&#1605;&#1590;&#1610;&#1602; &#1605;&#1610;&#1587;&#1610;&#1606;&#1575;</gn:alternateName>
+<gn:alternateName xml:lang="co">Strettu di Messina</gn:alternateName>
+<gn:alternateName xml:lang="cs">Messinsk&#225; &#250;&#382;ina</gn:alternateName>
+<gn:alternateName xml:lang="da">Messinastr&#230;det</gn:alternateName>
+<gn:alternateName xml:lang="de">Stra&#223;e von Messina</gn:alternateName>
+<gn:alternateName xml:lang="en">Strait of Messina</gn:alternateName>
+<gn:alternateName xml:lang="es">Estrecho de Mesina</gn:alternateName>
+<gn:alternateName xml:lang="et">Messina v&#228;in</gn:alternateName>
+<gn:alternateName xml:lang="fr">D&#233;troit de Messine</gn:alternateName>
+<gn:alternateName xml:lang="gl">Estreito de Messina</gn:alternateName>
+<gn:alternateName xml:lang="he">&#1502;&#1510;&#1512; &#1502;&#1505;&#1497;&#1504;&#1492;</gn:alternateName>
+<gn:alternateName xml:lang="is">Mess&#237;nasund</gn:alternateName>
+<gn:alternateName xml:lang="it">Stretto di Messina</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#12513;&#12483;&#12471;&#12540;&#12490;&#28023;&#23777;</gn:alternateName>
+<gn:alternateName xml:lang="lb">Strooss vu Messina</gn:alternateName>
+<gn:alternateName xml:lang="nl">Straat van Messina</gn:alternateName>
+<gn:alternateName xml:lang="no">Messinastredet</gn:alternateName>
+<gn:alternateName xml:lang="pl">Cie&#347;nina Mesy&#324;ska</gn:alternateName>
+<gn:alternateName xml:lang="pt">Estreito de Messina</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1052;&#1077;&#1089;&#1089;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081; &#1087;&#1088;&#1086;&#1083;&#1080;&#1074;</gn:alternateName>
+<gn:alternateName xml:lang="scn">Strittu di Missina</gn:alternateName>
+<gn:alternateName xml:lang="sk">Messinsk&#253; prieliv</gn:alternateName>
+<gn:alternateName xml:lang="sl">Mesinska o&#382;ina</gn:alternateName>
+<gn:alternateName xml:lang="sv">Messinasundet</gn:alternateName>
+<gn:alternateName xml:lang="uk">&#1052;&#1077;&#1089;&#1089;&#1080;&#1085;&#1089;&#1100;&#1082;&#1072; &#1087;&#1088;&#1086;&#1090;&#1086;&#1082;&#1072;</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#22696;&#35199;&#25343;&#28023;&#23777;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STRT"/>
+<gn:countryCode>IT</gn:countryCode>
+<wgs84_pos:lat>38.24681</wgs84_pos:lat>
+<wgs84_pos:long>15.6411</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/3175395/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/2524168/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/2524168/stretto-di-messina.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Strait_of_Messina"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Strait_of_Messina"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/1546719/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/1546719/about.rdf"/>
+<gn:name>Passage de la Gazelle</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.CHNM"/>
+<gn:countryCode>TF</gn:countryCode>
+<wgs84_pos:lat>-48.95773</wgs84_pos:lat>
+<wgs84_pos:long>69.60924</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/1546748/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/1546719/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/1546719/passage-de-la-gazelle.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/8030271/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/8030271/about.rdf"/>
+<gn:name>Akashi Kaiky&#333; Bridge</gn:name>
+<gn:alternateName xml:lang="ar">&#1580;&#1587;&#1585; &#1571;&#1603;&#1575;&#1588;&#1610; &#1603;&#1575;&#1610;&#1603;&#1608;</gn:alternateName>
+<gn:alternateName xml:lang="ba">&#1040;&#1082;&#1072;&#1089;&#1080;-&#1050;&#1072;&#1081;&#1082;&#1105;</gn:alternateName>
+<gn:alternateName xml:lang="bg">&#1040;&#1082;&#1072;&#1096;&#1080; &#1050;&#1072;&#1081;&#1082;&#1100;&#1086;</gn:alternateName>
+<gn:alternateName xml:lang="ca">Pont Akashi-Kaikyo</gn:alternateName>
+<gn:alternateName xml:lang="cs">Most Aka&#353;i-Kaikj&#243;</gn:alternateName>
+<gn:alternateName xml:lang="da">Akashi-Kaikyo-broen</gn:alternateName>
+<gn:alternateName xml:lang="de">Akashi-Kaiky&#333;-Br&#252;cke</gn:alternateName>
+<gn:alternateName xml:lang="el">&#915;&#941;&#966;&#965;&#961;&#945; &#913;&#954;&#940;&#963;&#953;-&#922;&#945;&#970;&#954;&#953;&#972;</gn:alternateName>
+<gn:alternateName xml:lang="eo">Ponto Aka&#349;i-Kaikj&#333;</gn:alternateName>
+<gn:alternateName xml:lang="es">Gran Puente de Akashi Kaiky&#333;</gn:alternateName>
+<gn:alternateName xml:lang="et">Akashi-Kaiky&#333; sild</gn:alternateName>
+<gn:alternateName xml:lang="fa">&#1662;&#1604; &#1570;&#1705;&#1575;&#1588;&#1740; &#1705;&#1575;&#1740; &#1705;&#1740;&#1608;</gn:alternateName>
+<gn:alternateName xml:lang="fi">Akashi-Kaiky&#333;n silta</gn:alternateName>
+<gn:alternateName xml:lang="fr">Pont du d&#233;troit dAkashi</gn:alternateName>
+<gn:alternateName xml:lang="fy">Akashi-Kaiky&#333; Br&#234;ge</gn:alternateName>
+<gn:alternateName xml:lang="ga">Droichead Akashi-Kaikyo</gn:alternateName>
+<gn:alternateName xml:lang="gl">Ponte Akashi Kaiky&#333;</gn:alternateName>
+<gn:alternateName xml:lang="he">&#1490;&#1513;&#1512; &#1488;&#1511;&#1513;&#1497;-&#1511;&#1497;&#1497;&#1511;&#1497;&#1493;</gn:alternateName>
+<gn:alternateName xml:lang="hy">&#1329;&#1391;&#1377;&#1405;&#1387; &#1343;&#1377;&#1397;&#1391;&#1387;&#1400;</gn:alternateName>
+<gn:alternateName xml:lang="id">Jembatan Akashi-Kaikyo</gn:alternateName>
+<gn:alternateName xml:lang="it">Ponte di Akashi Kaiky&#333;</gn:alternateName>
+<gn:alternateName xml:lang="ja">&#26126;&#30707;&#28023;&#23777;&#22823;&#27211;</gn:alternateName>
+<gn:alternateName xml:lang="ka">&#4304;&#4313;&#4304;&#4328;&#4312;-&#4313;&#4304;&#4312;&#4313;&#4312;&#4317;&#4321; &#4334;&#4312;&#4307;&#4312;</gn:alternateName>
+<gn:alternateName xml:lang="ko">&#50500;&#52852;&#49884; &#54644;&#54801; &#45824;&#44368;</gn:alternateName>
+<gn:alternateName xml:lang="lb">Akashi-Kaiky&#333;-Br&#233;ck</gn:alternateName>
+<gn:alternateName xml:lang="mk">&#1040;&#1082;&#1072;&#1096;&#1080;-&#1050;&#1072;&#1080;&#1082;&#1080;&#1086;</gn:alternateName>
+<gn:alternateName xml:lang="ms">Jambatan Akashi-Kaiky&#333;</gn:alternateName>
+<gn:alternateName xml:lang="nl">Akashi-Kaikyo-brug</gn:alternateName>
+<gn:alternateName xml:lang="nn">Akashi-Kaikyo-brua</gn:alternateName>
+<gn:alternateName xml:lang="no">Akashi-Kaikyo-broen</gn:alternateName>
+<gn:alternateName xml:lang="pl">Most Akashi Kaiky&#333;</gn:alternateName>
+<gn:alternateName xml:lang="pt">Ponte Akashi-Kaikyo</gn:alternateName>
+<gn:alternateName xml:lang="ro">Podul Akashi-Kaikyo</gn:alternateName>
+<gn:alternateName xml:lang="ru">&#1040;&#1082;&#1072;&#1089;&#1080;-&#1050;&#1072;&#1081;&#1082;&#1105;</gn:alternateName>
+<gn:alternateName xml:lang="sah">&#1040;&#1082;&#1072;&#1089;&#1080;-&#1050;&#1072;&#1081;&#1082;&#1199;&#1257; &#1082;&#1199;&#1088;&#1075;&#1101;&#1090;&#1101;</gn:alternateName>
+<gn:alternateName xml:lang="sk">Aka&#353;i-kaikj&#243; &#243;ha&#353;i</gn:alternateName>
+<gn:alternateName xml:lang="sv">Akashi Kaikyo-bron</gn:alternateName>
+<gn:alternateName xml:lang="ta">&#2949;&#2965;&#3006;&#2970;&#3007; &#2965;&#3016;&#2965;&#3021;&#2972;&#3019;</gn:alternateName>
+<gn:alternateName xml:lang="th">&#3626;&#3632;&#3614;&#3634;&#3609;&#3629;&#3632;&#3585;&#3632;&#3594;&#3636;&#3652;&#3588;&#3648;&#3585;&#3637;&#3618;&#3623;</gn:alternateName>
+<gn:alternateName xml:lang="tr">Akashi Kaiky&#333; K&#246;pr&#252;s&#252;</gn:alternateName>
+<gn:alternateName xml:lang="tt">Aka&#351;i-Kaiky&#246; k&#252;pere</gn:alternateName>
+<gn:alternateName xml:lang="uk">&#1042;&#1077;&#1083;&#1080;&#1082;&#1080;&#1081; &#1084;&#1110;&#1089;&#1090; &#1087;&#1088;&#1086;&#1090;&#1086;&#1082;&#1080; &#1040;&#1082;&#1072;&#1089;&#1110;</gn:alternateName>
+<gn:alternateName xml:lang="vi">C&#7847;u Akashi-Kaikyo</gn:alternateName>
+<gn:alternateName xml:lang="zh">&#26126;&#30707;&#28023;&#23777;&#22823;&#26725;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#S"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#S.BDG"/>
+<gn:countryCode>JP</gn:countryCode>
+<wgs84_pos:lat>34.61587</wgs84_pos:lat>
+<wgs84_pos:long>135.02078</wgs84_pos:long>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/1861060/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8030271/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/8030271/akashi-kaikyo-bridge.html"/>
+<gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge"/>
+<rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Akashi_Kaiky%C5%8D_Bridge"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4237004/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4237004/about.rdf"/>
+<gn:name>Detroit</gn:name>
+<gn:alternateName xml:lang="ru">&#1044;&#1077;&#1090;&#1088;&#1086;&#1080;&#1090;</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>US</gn:countryCode>
+<gn:population>83</gn:population>
+<wgs84_pos:lat>39.6206</wgs84_pos:lat>
+<wgs84_pos:long>-90.67679</wgs84_pos:long>
+<wgs84_pos:alt>195</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4237004/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4237004/detroit.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/8095822/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/8095822/about.rdf"/>
+<gn:name>Children's Home of Detroit Historical Marker</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.PRK"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>42.42335</wgs84_pos:lat>
+<wgs84_pos:long>-82.89763</wgs84_pos:long>
+<wgs84_pos:alt>179</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/8095822/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/8095822/children-s-home-of-detroit-historical-marker.html"/>
+</gn:Feature>
+<gn:Feature rdf:about="http://sws.geonames.org/4096985/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/4096985/about.rdf"/>
+<gn:name>West Detroit Gas Field</gn:name>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#L"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#L.OILF"/>
+<gn:countryCode>US</gn:countryCode>
+<wgs84_pos:lat>34.02316</wgs84_pos:lat>
+<wgs84_pos:long>-88.17781</wgs84_pos:long>
+<wgs84_pos:alt>136</wgs84_pos:alt>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/6252001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/4096985/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/4096985/west-detroit-gas-field.html"/>
+</gn:Feature>
+</rdf:RDF>
